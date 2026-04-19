@@ -1,7 +1,8 @@
 body{
 background-color: aquamarine;
 text-align: center;
-background: url();
+background: url(resources/ekmed-ali-DjLIn5mSptw-unsplash.jpg);
 /* uniform resource located  */
-
+background-size: cover;
+background-position: center;
 }
